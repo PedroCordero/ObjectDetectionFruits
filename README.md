@@ -2,6 +2,8 @@
 
 This project focuses on training and evaluating an object detection model using YOLOv7. The model is trained on a dataset to detect objects effectively, and its performance is analyzed using various metrics, including loss values, precision, recall, and mean average precision (mAP). The results are visualized to understand the model's learning progress over time.
 
+![Fruits](./project-fruits.gif)
+
 #### Key Features  
 
 - *YOLOv7-Based Object Detection* – Utilizes the state-of-the-art YOLOv7 architecture for high-speed and accurate object detection.
@@ -11,3 +13,9 @@ This project focuses on training and evaluating an object detection model using 
 
 ### Results
 The YOLOv7 model demonstrated strong performance in object detection, achieving an increasing trend in precision and recall throughout training. The mAP@0.5 exceeded 60%, indicating reliable detection accuracy. The validation loss decreased significantly, confirming effective learning. The results suggest that the model is well-suited for object detection tasks, and further fine-tuning could improve performance even more.
+
+![Fruits](./project-fruits2.png)
+
+![Fruits](./project-fruits3.jpg)
+
+![Fruits](./project-fruits4.png)
